@@ -5,3 +5,4 @@ Thư mục Deploy chứa thư mục triển khai:
  - NodeJS - Web (API)
  - Python - Gui (Local)
  - Python - Web (API)
+Link Database: https://drive.google.com/drive/folders/15mA8WxCeau5vlV4Yb2YPapSKIQQSGv9O?usp=sharing
